@@ -2,6 +2,7 @@ package danny.nanoflux.blocks;
 
 import danny.nanoflux.client.CreativeTabsCustom;
 import net.minecraft.block.Block;
+import net.minecraft.block.BlockDirectional;
 import net.minecraft.block.material.Material;
 
 public class BlockBase extends Block
